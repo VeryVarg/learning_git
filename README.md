@@ -1,2 +1,3 @@
 # trying_git
+hey i made a ammendment to this line 2. lets see what's next....
 just trying git
